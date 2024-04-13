@@ -1,0 +1,11 @@
+/home/matheus-dev/workspace/credit-simulator/CreditSimulator.Domain/bin/Debug/net8.0/CreditSimulator.Domain.deps.json
+/home/matheus-dev/workspace/credit-simulator/CreditSimulator.Domain/bin/Debug/net8.0/CreditSimulator.Domain.dll
+/home/matheus-dev/workspace/credit-simulator/CreditSimulator.Domain/bin/Debug/net8.0/CreditSimulator.Domain.pdb
+/home/matheus-dev/workspace/credit-simulator/CreditSimulator.Domain/obj/Debug/net8.0/CreditSimulator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus-dev/workspace/credit-simulator/CreditSimulator.Domain/obj/Debug/net8.0/CreditSimulator.Domain.AssemblyInfoInputs.cache
+/home/matheus-dev/workspace/credit-simulator/CreditSimulator.Domain/obj/Debug/net8.0/CreditSimulator.Domain.AssemblyInfo.cs
+/home/matheus-dev/workspace/credit-simulator/CreditSimulator.Domain/obj/Debug/net8.0/CreditSimulator.Domain.csproj.CoreCompileInputs.cache
+/home/matheus-dev/workspace/credit-simulator/CreditSimulator.Domain/obj/Debug/net8.0/CreditSimulator.Domain.dll
+/home/matheus-dev/workspace/credit-simulator/CreditSimulator.Domain/obj/Debug/net8.0/refint/CreditSimulator.Domain.dll
+/home/matheus-dev/workspace/credit-simulator/CreditSimulator.Domain/obj/Debug/net8.0/CreditSimulator.Domain.pdb
+/home/matheus-dev/workspace/credit-simulator/CreditSimulator.Domain/obj/Debug/net8.0/ref/CreditSimulator.Domain.dll
